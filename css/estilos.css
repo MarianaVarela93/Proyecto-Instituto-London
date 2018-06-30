@@ -1,0 +1,85 @@
+body{
+	background-color: rgb(160,194,207);
+}
+#nav{
+  background-color: #C40B0B;
+}
+#IS{
+  font-size: 0.8em;
+}
+#liverpool{
+  font-size: 2.0em;
+}
+#grande{
+  overflow: hidden;
+  min-height: 500px;
+}
+#principal{
+  overflow: hidden;
+  padding: 0px;
+  min-height: 500px;
+}
+#texto{ 
+  font-family: "Corbel";
+  font-size: 1.7em;
+  text-align: center;
+  margin: 0 auto;
+  padding: 30px ;
+  margin-bottom: 40px;  
+} 
+#block-footer {
+  font-size: 0.8em;
+  text-align: center;
+  padding: 15px 0;
+  margin-bottom: 10px;
+  background-color: #05359C;
+}
+#cursos{
+  font-family: "Corbel";
+  font-size: 1.0em;
+  margin: 0 auto;
+  padding: 30px ;
+  margin-bottom: 40px; 
+}
+.drag-drop {
+height: 8em;
+width: 8em;
+background-color: #ccc;
+border-radius: 4em;
+text-align: center;
+color: white;
+position: relative;
+margin: 0 auto 1em;
+}
+.drag-drop span.desc {
+display: block;
+font-size: .7em;
+padding: 0 .5em;
+color: black;
+}
+input[type="file"] {
+height: 10em;
+opacity: 0;
+position: absolute;
+top: 0;
+left: 0;
+width: 100%; 
+z-index: 3;
+}
+.fa-stack .medium { 
+color: black;
+text-shadow: 0 0 .25em #666;
+}
+.nav-item.active{
+  background-color:#05359C;
+}
+#sesión{
+  overflow: hidden;
+  min-height: 500px;
+  padding-top: 20px;
+}
+
+
+
+
+
